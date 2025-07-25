@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>🌤️ Simple Weather App</h1>
+      <h1>🌤️ ClimaCast Weather App</h1>
       {error && <p className="error">{error}</p>}
       <input
         type="text"
